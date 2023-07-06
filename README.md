@@ -16,7 +16,7 @@ Calculator that features addition, subtraction, multiplication, division, percen
 
 ### Running the Project
 
-<p> To run the project just clone the repository by running in the terminel:
+<p> To run the project just clone the repository by running in the terminal:
   <code>https://github.com/JoseGayosoNeto/python_calculator.git</code>
 </p>
 <p>Then, just run the <code>main.py</code> file in your IDE.</p>
